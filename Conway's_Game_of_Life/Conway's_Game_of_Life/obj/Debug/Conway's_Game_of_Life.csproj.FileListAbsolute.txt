@@ -1,0 +1,10 @@
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\bin\Debug\Conway's_Game_of_Life.exe.config
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\bin\Debug\Conway's_Game_of_Life.exe
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\bin\Debug\Conway's_Game_of_Life.pdb
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\obj\Debug\Conway's_Game_of_Life.csprojAssemblyReference.cache
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\obj\Debug\Conway_s_Game_of_Life.Conways_Game_of_Life.resources
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\obj\Debug\Conway_s_Game_of_Life.Properties.Resources.resources
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\obj\Debug\Conway's_Game_of_Life.csproj.GenerateResource.cache
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\obj\Debug\Conway's_Game_of_Life.exe
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\obj\Debug\Conway's_Game_of_Life.pdb
+C:\Users\NICK\source\repos\Conway's_Game_of_Life\Conway's_Game_of_Life\obj\Debug\Conway's_Game_of_Life.csproj.CoreCompileInputs.cache
